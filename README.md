@@ -6,7 +6,7 @@ La prueba consiste, en la construcción de dos microservicios uno para catalogo-
 ---
 
 ## 🛠️ Versiones Usadas
-Detalle de las versiones de las tecnologías y herramientas principales implementadas en el desarrollo:
+ versiones de las tecnologías y herramientas 
 * **Java:** Versión 17
 * **Spring Boot:** Versión 4.1.1
 * **Base de Datos:** SQL Server 
